@@ -4,6 +4,7 @@ from pynput.keyboard import Key, Controller
 import time
 import random
 
+# do: pip install pynput
 
 keyboard = Controller()
 space = Key.space
